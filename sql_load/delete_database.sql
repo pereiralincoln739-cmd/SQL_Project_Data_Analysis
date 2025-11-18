@@ -1,0 +1,1 @@
+DROP TABLE company_dim, job_postings_fact, skills_dim, skills_job_dim, teste_legal;
